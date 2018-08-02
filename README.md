@@ -4,7 +4,7 @@ Team members: Liz Chen, Beiming Liu, Bingyi Li, Shannon McNish
 
 Goal: predict Canadian monthly bankruptcy rate
 
-# Biref Intro
+## Biref Intro
 
 The goal of this project is to use one or more variables to accurately predict monthly Canadian bankruptcy rates from January 2011 to December 2012. Data available for modeling includes the monthly data from January 1987 to December 2010 for Canada for the following four variables:  Unemployment Rate, Population, Housing Price Index and Bankruptcy Rate.
 
@@ -14,6 +14,6 @@ Our approach includes an initial exploratory data analysis to get familiar with 
 
 After producing optimal models for each approach, we evaluated each model’s predictions and RMSE. Our final model took a combination of the best two approaches to give our final predictions for Canada bankruptcy rates between 2011-2012.
 
-# Report: 
+## Report 
 
 The report summarized the feature selection and modeling process and our conclusions 

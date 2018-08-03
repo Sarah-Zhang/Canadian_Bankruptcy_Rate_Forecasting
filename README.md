@@ -17,4 +17,4 @@ Data available for modeling includes the monthly data from January 1987 to Decem
 
 ## Report 
 
-The report summarized the feature selection and modeling process and our conclusions 
+The report summarized the feature selection and modeling process and our conclusions.

@@ -17,6 +17,6 @@ After producing optimal models for each approach, we evaluated each model’s pr
 ## Description of Data
 Data available for modeling includes the monthly data from January 1987 to December 2010 for Canada for the following four variables:  Unemployment Rate, Population, Housing Price Index and Bankruptcy Rate.
 
-## Report 
+## Deliverable 
 
 The [report](https://github.com/bingyil/Canadian_Bankruptcy_Rate_Forecasting/blob/master/Report.pdf) summarized the feature selection and modeling process and our conclusions.

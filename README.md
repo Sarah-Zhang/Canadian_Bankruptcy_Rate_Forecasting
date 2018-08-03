@@ -19,4 +19,4 @@ Data available for modeling includes the monthly data from January 1987 to Decem
 
 ## Report 
 
-The report summarized the feature selection and modeling process and our conclusions.
+The [report](https://github.com/bingyil/Canadian_Bankruptcy_Rate_Forecasting/blob/master/Report.pdf) summarized the feature selection and modeling process and our conclusions.

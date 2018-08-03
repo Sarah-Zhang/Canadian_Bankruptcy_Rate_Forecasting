@@ -2,7 +2,9 @@
 
 Team members: Liz Chen, Beiming Liu, Bingyi Li, Shannon McNish
 
-Goal: Predict Canadian monthly bankruptcy rate from January 2011 to December 2012.
+## Goal
+
+Predict Canadian monthly bankruptcy rate from January 2011 to December 2012.
 
 ## Biref Intro
 
